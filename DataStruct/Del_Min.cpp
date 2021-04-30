@@ -7,7 +7,7 @@
 bool Del_Min(Sqlist &L, ElemType value){
 
 
-
+//laptop =============
     if(L.length == 0)
         return false;
     value = L.data[0];
